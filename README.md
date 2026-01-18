@@ -1,9 +1,48 @@
-### Hey 👋, I'm Rémi
+# Hey there 👋
 
-:green_heart: Open source , Vim , Emberjs and Python
+I'm a **Lead Backend Developer & Cloud Architect**,🇲🇨 specializing in building scalable AI systems and cloud-native solutions on AWS.
 
-- 🔭 I’m currently working on : Full Stack Project Django + Bulma CSS + JS + PANDA IA
-- 🔥 Open Source Project : Pyrrha Project --> A Call for Code Project ===> https://developer.ibm.com/callforcode/solutions/projects/
-- 🌱 I’m currently learning : Flutter and Vuejs
-- 📫 How to reach me : giraudremi92@gmail.com
-- :video_game: Check out this game on Steam : Gremlins inc / Ticket to Ride / FF7 REMAKE
+Currently in R&D to become a Principal AI Engineer — exploring the cutting edge of agentic AI, sovereign systems, and production-grade ML infrastructure.
+
+## What I'm Working On 🚀
+
+**Building [Alki.io](https://alki.io)** — A modern **MLOps data pipeline for AI-powered forecasting**, where machine learning models predict, optimize, and drive real-time business decisions. End-to-end data orchestration from ingestion to inference.
+
+Currently laser-focused on:
+- 🤖 **Agentic AI & LLM Orchestration** — LangChain & LangFuse for building intelligent, observable AI agents
+- 🔧 **LLM Fine-tuning** — Working with Gemma 3 and other open-source models to build specialized systems
+- 🏛️ **Sovereign AI & Small Language Models (SLMs)** — Building with open-source, on-premise solutions that respect data sovereignty
+- 💻 **Local ML Infrastructure** — Running everything on ASUS GB10 (DGX Spark) — no cloud dependencies, full control
+
+## My Stack 🛠️
+
+- **Backend**: Building high-performance APIs
+- **Cloud**: AWS (architect-level expertise), infrastructure automation
+- **AI/ML**: 
+  - MLOps pipelines with Apache Airflow
+  - LangChain & LangFuse for agentic workflows
+  - Model fine-tuning and optimization
+  - Small Language Models & sovereign AI frameworks
+- **Monitoring**: Grafana, observability best practices
+- **Hardware**: **ASUS GB10 (DGX Spark)** for local, on-premise ML workloads 🟢
+- **Open Source AI**: NVIDIA Certified, Nemotron LLM & Mistral, Gemma 3, LangGraph Certified.
+- LLM : Claude, Claude Code
+- ...
+
+## Philosophy 🧠
+
+Passionate about **sovereign AI** and the shift toward smaller, more efficient language models that can run locally without cloud dependency. Building systems that are transparent, compliant, and maintainable — because not all problems need billion-parameter models.
+
+## Open Source Contributions 🌟
+
+Active in the open-source AI space around:
+- Agentic AI frameworks (LangChain ecosystem)
+- LLM fine-tuning & optimization
+
+## Beyond Code 🎮
+
+When I'm not architecting ML pipelines or fine-tuning models, you'll find me playing **Claymore: Obscure**. Exploring games that blend narrative depth with unconventional gameplay — the kind that makes you think.
+
+---
+
+**Let's connect if you're building the future of AI infrastructure, sovereign solutions, or agentic systems** 👉 [LinkedIn](#) | [Email](#)
