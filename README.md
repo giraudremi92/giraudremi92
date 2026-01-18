@@ -41,8 +41,4 @@ Active in the open-source AI space around:
 
 ## Beyond Code 🎮
 
-When I'm not architecting ML pipelines or fine-tuning models, you'll find me playing **Claymore: Obscure**. Exploring games that blend narrative depth with unconventional gameplay — the kind that makes you think.
-
----
-
-**Let's connect if you're building the future of AI infrastructure, sovereign solutions, or agentic systems** 👉 [LinkedIn](#) | [Email](#)
+**Let's connect if you're building the future of AI infrastructure, sovereign solutions, or agentic systems**
