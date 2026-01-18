@@ -39,6 +39,5 @@ Active in the open-source AI space around:
 - Agentic AI frameworks (LangChain ecosystem)
 - LLM fine-tuning & optimization
 
-## Beyond Code 🎮
 
 **Let's connect if you're building the future of AI infrastructure, sovereign solutions, or agentic systems**
