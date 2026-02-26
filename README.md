@@ -38,6 +38,8 @@ Passionate about **sovereign AI** and the shift toward smaller, more efficient l
 Active in the open-source AI space around:
 - Agentic AI frameworks (LangChain ecosystem)
 - LLM fine-tuning & optimization
+- https://github.com/eugr/spark-vllm-docker
+- https://spark-arena.com/
 
 
 **Let's connect if you're building the future of AI infrastructure, sovereign solutions, or agentic systems**
